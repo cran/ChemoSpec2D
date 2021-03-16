@@ -1,6 +1,6 @@
-0abb330645955d2297ffe05deb31da1c *DESCRIPTION
+1e0636e3c68703d4910ec47ba7de05a4 *DESCRIPTION
 9ef5cef8f6d954eddb07594196e2e282 *NAMESPACE
-a7b12797eade831a246e3ac9d7de043a *NEWS.md
+e5df38f9f2c6d24ac439950dfe446452 *NEWS.md
 d07449033065d2ed6bdaa056b0a72903 *R/AlignArraysMBO.R
 938d87b529dc8a5a4c63d0aa910a702f *R/ChemoSpec2D-package.R
 0938fd8fa1af26ee6b7ac3b029873079 *R/LofC.R
@@ -17,7 +17,7 @@ a0e3110e397f4a5afe55c2ed7cc6a1bd *R/cleanArgs2D.R
 7ecc17c879c2c4a8162902be8816941d *R/createScale.R
 68e63d6dcd535a443aecf86fb37c802e *R/drawScale.R
 f33e70da52b6ba961b9c78aada71e530 *R/evalArrayOverlapMBO.R
-1a24744b9ee0a4f3a616ffee8b79e5d7 *R/files2Spectra2DObject.R
+a6bf05b49f41880ce1c6e7c6624b783a *R/files2Spectra2DObject.R
 8c91e93cb1a369991f25b8bc7ebb5f82 *R/findExtreme.R
 491de096753b6ff5261e59e6587bc9cb *R/findZeros.R
 9d7fd9a3d990c27bf4890852be664d30 *R/getAlignOrder.R
@@ -53,12 +53,12 @@ f5cc3c2a4e206bad85c04fe450a3570b *R/sumSpectraStub.R
 a2e43c11c46d5b7aa16731990b544891 *R/symAroundZero.R
 ffa313713c051d7fb782524a305d90a6 *R/unstack.R
 58d8b34a343f6d9ef6d8bd5ce9498502 *R/updateGroupsStub.R
-84cee0c9109ecfcac8ba370f12bc1d00 *build/vignette.rds
+c2fb0c39e13557276f983ce91bea484e *build/vignette.rds
 9f6051b22a9ff63407a6b8170bc224d9 *data/MUD1.RData
 6a1b883db6bfb984ee5a4c46520adaba *data/MUD2.RData
 48c5571ca62cf44e5dfddc2d418a4c74 *inst/doc/ChemoSpec2D.R
-cba0238460683e0e06298d9353566923 *inst/doc/ChemoSpec2D.Rmd
-12845d63be10b65df89d54bb85324779 *inst/doc/ChemoSpec2D.html
+5dc1a302c6475bd40398e449a411aabf *inst/doc/ChemoSpec2D.Rmd
+af82ff2897e637fbbc60175450f06b74 *inst/doc/ChemoSpec2D.pdf
 e77ba40d730faced593260e01e4b155a *inst/extdata/scale_bg_black.pdf
 8d7acf2065b35f824efd84aeea88327c *inst/extdata/scale_bg_white.pdf
 4d247be3f38da6ff3b331cdf1f5eaa6b *inst/tinytest/test_centscaleSpectra2D.R
@@ -76,7 +76,7 @@ be3de51a2468a3a2a2a26f059f546be4 *man/Spectra2D.Rd
 925964621ca008127824cc1b9d7aacaa *man/colorSymbol.Rd
 6b5e3435a2e5f7c36423949978621c95 *man/computeVolume.Rd
 2500d823b1a84aa2572d7fd1bca33771 *man/figures/Banner.png
-a2c2507540c7e084a6a8cdde262c770b *man/files2Spectra2DObject.Rd
+7f1e7ac9e951068ec72f17b4513b0462 *man/files2Spectra2DObject.Rd
 f69d507c8f8b95f778cf2e4a495d06d0 *man/hats_alignSpectra2D.Rd
 3a758ce78815fa00483e1e120d71e0de *man/import2Dspectra.Rd
 f3a817d4650e132b2dec4a58fa183bde *man/inspectLvls.Rd
@@ -101,5 +101,5 @@ a9fdd7765f04485e1173750d0b4d3820 *man/sumGroups.Rd
 367c5a7013912fd2e782ce3f64b54c2c *man/updateGroups.Rd
 1f389624c592d0eeafae8da6d1bc5e79 *tests/tinytest.R
 3684a1a4f74a8c4440f3191c4b4bf7df *vignettes/3Darray.png
-cba0238460683e0e06298d9353566923 *vignettes/ChemoSpec2D.Rmd
+5dc1a302c6475bd40398e449a411aabf *vignettes/ChemoSpec2D.Rmd
 6dfdf01a80a27151337c114e2c8d7462 *vignettes/ChemoSpec2D.bib
