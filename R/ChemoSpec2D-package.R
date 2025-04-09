@@ -19,8 +19,6 @@
 #'
 #' @aliases ChemoSpec2D-package ChemoSpec2D
 #'
-#' @docType package
-#'
 #' @author Bryan A. Hanson.
 #'
 #' Maintainer: Bryan A. Hanson \email{hanson@@depauw.edu}
@@ -36,9 +34,9 @@
 #' @export                    removeFreq removeGroup removeSample
 #'
 #' @importFrom ChemoSpecUtils plotScree plotScores .chkReqGraphicsPkgs
-#' @export                    plotScree plotScores .chkReqGraphicsPkgs
+#' @export                    plotScree plotScores
 #'
 #' @importFrom ChemoSpecUtils .findNA .getLimits check4Gaps .chkArgs .addLegend
-#' @export                    .findNA .getLimits check4Gaps .chkArgs .addLegend
+#' @export                    check4Gaps
 #'
-NULL
+"_PACKAGE"
